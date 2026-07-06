@@ -38,16 +38,7 @@ for smarter metro operations.
 
 ---
 
-## Folder Structure
-metroflow/
-├── data/          ← Raw and processed datasets
-├── models/        ← Saved ML models
-├── api/           ← FastAPI backend
-├── frontend/      ← React dashboard
-├── utils/         ← Feature engineering, event calendar
-├── database/      ← Database models
-├── notebooks/     ← Jupyter notebooks for EDA and training
-└── outputs/       ← Graphs, results, exports
+
 ---
 
 ## Setup Instructions
